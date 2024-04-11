@@ -1,0 +1,10 @@
+# unpinned, incomplete
+
+einops
+jaxtyping
+numpy
+pandas
+plotly
+torch
+rich
+tqdm

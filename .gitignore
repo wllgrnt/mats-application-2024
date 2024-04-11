@@ -1,5 +1,6 @@
 # not my code, pull from GH at runtime
 src/plotly_utils.py
+src/saes_utils.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

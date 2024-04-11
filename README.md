@@ -25,4 +25,4 @@ POV: you have realised that your ancient desktop with a fancy new 4070 SUPER no 
 9. Install conda, create an mechinterp env. (`conda create -n mechinterp python=3.11 numpy scipy matplotlib scikit-learn`)
 10. Install the Jupyter and Python extensions for VSCode.
 11. Activate your conda env, install Jupyter.
-12. Worry about CUDA later.
+12. Install torch with CUDA (surprisingly easy - `conda install pytorch pytorch-cuda=11.8 -c pytorch -c nvidia`)
