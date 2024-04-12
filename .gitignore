@@ -1,3 +1,7 @@
+*.pickle
+dashboards/
+vocab_dict.json
+
 # not my code, pull from GH at runtime
 src/plotly_utils.py
 src/saes_utils.py
