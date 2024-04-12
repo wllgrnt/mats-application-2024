@@ -7,4 +7,6 @@ pandas
 plotly
 torch
 rich
+sae-lens # requirements on this one are odee
 tqdm
+
